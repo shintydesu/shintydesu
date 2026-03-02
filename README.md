@@ -19,16 +19,12 @@ I am a Data Scientist and Machine Learning Engineer who is deeply passionate abo
 
 ## 🚀 Featured Project
 
-### 🎮 [Steam Sentiment & Trend Analysis](Link to Repo)
+### 🎮 [Steam Sentiment & Trend Analysis](https://github.com/shintydesu/steam_nlp_product_analytics)
 *Analyzed 100k+ user reviews to identify key drivers of player retention.*
 * **The Problem:** How do game updates affect player sentiment over time?
 * **The Solution:** Built an NLP pipeline using **BERTopic** for theme extraction and **VADER** for sentiment scoring.
 * **The Result:** Identified a 20% drop in sentiment related to specific UI changes, providing actionable feedback for developers.
 
-### 📈 [Your Second Best Project Name](Link to Repo)
-*A brief, punchy description of what this project achieved.*
-* **Key Tech:** Python, XGBoost, SQL.
-* **Impact:** Reduced prediction error by 12% compared to the baseline model.
 ---
 
 ## 📫 Let's Connect!
