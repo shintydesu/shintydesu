@@ -19,11 +19,11 @@ I am a Data Scientist and Machine Learning Engineer who is deeply passionate abo
 
 ## 🚀 Featured Project
 
-### 🎮 [Steam Sentiment & Trend Analysis](https://github.com/shintydesu/steam_nlp_product_analytics)
-*Analyzed 100k+ user reviews to identify key drivers of player retention.*
-* **The Problem:** How do game updates affect player sentiment over time?
-* **The Solution:** Built an NLP pipeline using **BERTopic** for theme extraction and **VADER** for sentiment scoring.
-* **The Result:** Identified a 20% drop in sentiment related to specific UI changes, providing actionable feedback for developers.
+### 🎮 [Steam Product Analytics: NLP & Cohort Analysis](https://github.com/shintydesu/steam_nlp_product_analytics)
+*Engineered an end-to-end NLP data pipeline to scrape, cluster, and quantify product sentiment shifts across 150k+ historical Steam reviews.*
+* **The Problem:** Unstructured community feedback makes it difficult to measure the true A/B business impact of major product updates and operational changes.
+* **The Solution:** Built a fully automated Python pipeline utilizing **BERTopic** for semantic theme extraction and a fine-tuned **DistilBERT** LLM for sentiment scoring, segmented by player engagement cohorts.
+* **The Result:** Successfully quantified the statistical footprint of a product turnaround (*Cyberpunk 2077*), isolated monetization backlash from gameplay updates (*Apex Legends*), and detected emergent competitor churn (*Overwatch 2*).
 
 ---
 
