@@ -1,21 +1,23 @@
-# Hi there, I'm Shintaro Ito 👋
+# Hi, I'm Shintaro Ito 👋
 
-### 📊 Data Scientist | Machine Learning Engineer | Problem Solver
+## 📊 Data Scientist | Machine Learning Engineer | Problem Solver
+### **Ex-Meta Data Analyst | MS in Data Science Engineering @ UCLA**
 
-I specialize in turning messy, unstructured data into clear, actionable insights. Whether it's analyzing thousands of Steam reviews or building predictive models, I focus on the "why" behind the numbers.
+I am a Data Scientist and Machine Learning Engineer who is deeply passionate about the gaming, entertainment, and tech industries. With a background spanning from GenAI Trust & Safety to mobile game optimization, I specialize in building robust, ethical, and high-performance data systems.
 
 ---
 
-## 🛠️ My Technical Toolbox
+### 🛠️ My Technical Toolbox
 
-* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, BigQuery), R
+* **Languages:** Python, R, SQL, Julia, C++, MATLAB
 * **Machine Learning:** Supervised/Unsupervised Learning, NLP (Transformers, BERT), Time-Series
-* **Visualization:** Tableau, PowerBI, Matplotlib, Seaborn, Plotly
-* **Tools & Deployment:** Git, Docker, AWS (S3, SageMaker), Streamlit, Flask
+* **Data Engineering & Cloud:** AWS, Spark, BigQuery
+* **Analytics & Visualization:** Tableau, Looker Studio 
+* **Core Competencies:** ML Algorithms, A/B Testing, Causal Inference, Statistical Analysis, Model Development 
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Featured Project
 
 ### 🎮 [Steam Sentiment & Trend Analysis](Link to Repo)
 *Analyzed 100k+ user reviews to identify key drivers of player retention.*
@@ -27,18 +29,7 @@ I specialize in turning messy, unstructured data into clear, actionable insights
 *A brief, punchy description of what this project achieved.*
 * **Key Tech:** Python, XGBoost, SQL.
 * **Impact:** Reduced prediction error by 12% compared to the baseline model.
-
----
-
-## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-* **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-* **Email:** your.email@example.com
-
-> "The goal is to turn data into information, and information into insight." – Carly Fiorina
+* **LinkedIn:** [linkedin.com/in/shintaro-ito-104638264](https://linkedin.com/in/shintaro-ito-104638264/) 
