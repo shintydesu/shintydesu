@@ -1,7 +1,7 @@
 # Hi, I'm Shintaro Ito 👋
 
 ## 📊 Data Scientist | Machine Learning Engineer | Problem Solver
-### **Ex-Meta Data Analyst | MS in Data Science Engineering @ UCLA**
+### **Ex-Meta Data Analyst, Ex-Roblox Data Scientist Intern | MS in Data Science Engineering @ UCLA**
 
 I am a Data Scientist and Machine Learning Engineer who is deeply passionate about the gaming, entertainment, and tech industries. With a background spanning from GenAI Trust & Safety to mobile game optimization, I specialize in building robust, ethical, and high-performance data systems.
 
